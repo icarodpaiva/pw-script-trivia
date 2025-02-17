@@ -1,0 +1,22 @@
+{
+  "questions": 15,
+
+  "delayToStart": 5,
+  "delayInEachInteraction": 0.5,
+  "delayToReopenNpc": 1,
+
+  "npcPosition": { "x": 894, "y": 559 },
+
+  "questionArea": {
+    "top": 247,
+    "left": 765,
+    "width": 247,
+    "height": 110
+  },
+
+  "answersPositions": [
+    { "x": 894, "y": 492 },
+    { "x": 894, "y": 510 },
+    { "x": 894, "y": 529 }
+  ]
+}

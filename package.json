@@ -1,0 +1,22 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && copy utils dist",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Icaro Paiva",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/string-similarity": "^4.0.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@nut-tree-fork/nut-js": "^4.2.4",
+    "string-similarity": "^4.0.4",
+    "tesseract.js": "^6.0.0"
+  }
+}
