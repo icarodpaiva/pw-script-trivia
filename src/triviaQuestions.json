@@ -12,7 +12,7 @@
     "correctIndex": 0
   },
   {
-    "question": "Qual e o terceiro mapa do Imperio Ancestral?",
+    "question": "Qual e o segundo mapa do Imperio Ancestral?",
     "correctIndex": 1
   },
   {
@@ -194,5 +194,9 @@
   {
     "question": "A essencia do crepusculo e utilizada em:",
     "correctIndex": 2
+  },
+  {
+    "question": "Qual classe pode aumentar o HP do grupo com buffs?",
+    "correctIndex": 1
   }
 ]
